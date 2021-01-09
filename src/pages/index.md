@@ -49,7 +49,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Resul aq
     subtitle: from $149.99
     image: images/promo.jpg
     cta:
